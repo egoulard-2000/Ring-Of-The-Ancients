@@ -1,0 +1,8 @@
+Ok so I have the base 16 grass tiles that I need. Now I want to expand the tileset with more terrain
+
+Diagonal/Curved terrain tiles. Dont make one or other, make slightly curved only
+path tile set that includes ramps that lead from level to level
+Rock tile set for more mountainous terrain, this includes tiles for rock to grass and rock to water. rock to path optional
+Water tile set. Make base water tile and then have overlayed bits that make the water more interesting. Animated optional
+Bushes and trees. Make a variety of bushes and trees to use
+Stand alone rocks
