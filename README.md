@@ -3,12 +3,12 @@ Game Jam November 2021 Submission. Theme: "Tradition"
 
 # Contributors:
 
-Emily Ballin - Art
+Emily Ballin (https://github.com/Raintalon92) - Art
 
 Emile Goulard - Engineering
 
-Risky Santucci - Art & Design
+Risky Santucci (https://github.com/StasyGeneralist) - Art & Design
 
-Kaiden Sibbett - Engineering
+Kaiden Sibbett (https://github.com/TGG-ks) - Engineering
 
 Anderson - Design
